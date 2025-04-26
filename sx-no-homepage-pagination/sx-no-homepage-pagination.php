@@ -10,7 +10,7 @@ Tags: homepage, frontpage, pagination, seo, paged, crawl
 Author: Daniel Roch - SeoMix
 Author URI: https://www.seomix.fr
 Requires at least: 3.3
-Tested up to: 6.6
+Tested up to: 6.8
 License: GPL v3
 
 SX No Homepage Pagination - SeoMix

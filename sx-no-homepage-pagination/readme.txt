@@ -12,7 +12,7 @@ Author URI: https://www.seomix.fr
 Donate link: https://www.seomix.fr/dons/
 Contributors: seokey, seomix, confridin
 Requires at least: 3.3
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 5.2.4
 Stable tag: trunk
 License: GPL v3
